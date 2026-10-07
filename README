@@ -1,0 +1,150 @@
+# MnemoFlip Documentation
+
+## 1. Project Overview
+## 2. Purpose of the Application
+## 3. Technology Stack
+
+## 4. Project Structure
+
+MnemoFlip/
+├── assets/
+├── src/
+│   ├── ...
+│   └── ...
+├── App.tsx
+├── index.ts
+├── app.json
+├── package.json
+├── tsconfig.json
+├── eslint.config.js
+├── README.md
+└── LICENSE
+
+## 5. Application Architecture
+
+## 6. Program Flow
+### 6.1 Application Startup
+### 6.2 Home Screen
+### 6.3 Deck Management
+### 6.4 Create Deck
+### 6.5 Edit Deck
+### 6.6 Delete Deck
+### 6.7 Flashcard Management
+### 6.8 Flashcard Study
+### 6.9 Quiz Flow
+### 6.10 Quiz Results
+### 6.11 High Score
+### 6.12 Profile
+### 6.13 Saved/Favorite Decks
+### 6.14 Quiz History
+
+## 7. Detailed File-by-File Explanation
+
+### App.tsx
+- Purpose
+- Imports
+- Components
+- Navigation
+- State management
+- Application flow
+
+### index.ts
+- Entry point
+- How App.tsx is loaded
+
+### src/...
+- Every folder
+- Every component
+- Every screen
+- Every utility
+- Every data/model file
+
+## 8. CRUD Operations
+
+Create
+Read
+Update
+Delete
+
+## 9. Data Flow
+
+User
+ ↓
+Screen
+ ↓
+Component
+ ↓
+State / Data
+ ↓
+UI Update
+
+## 10. Flashcard Flow
+
+Create Deck
+ ↓
+Add Flashcards
+ ↓
+Open Deck
+ ↓
+Display Question
+ ↓
+Tap Card
+ ↓
+Reveal Answer
+ ↓
+Previous / Next
+ ↓
+Finish Study
+
+## 11. Quiz Flow
+
+Select Deck
+ ↓
+Generate Questions
+ ↓
+Display Multiple Choice
+ ↓
+Select Answer
+ ↓
+Next Question
+ ↓
+Calculate Score
+ ↓
+Compare High Score
+ ↓
+Display Result
+ ↓
+Retry / Return to Deck
+
+## 12. User Interface Structure
+
+## 13. State Management
+
+## 14. Navigation
+
+## 15. Input Validation
+
+## 16. Error Handling
+
+## 17. Data Persistence
+
+## 18. Installation
+
+npm install
+npx expo start
+
+## 19. Running on Android
+
+## 20. Running on iOS
+
+## 21. Running on Web
+
+## 22. Development Workflow
+
+## 23. Testing
+
+## 24. Troubleshooting
+
+## 25. Future Improvements
+
+## 26. Conclusion
